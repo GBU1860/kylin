@@ -23,7 +23,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>19</version>
-    <relativePath />
+    <relativePath/>
     <!-- no parent resolution -->
   </parent>
 
@@ -81,7 +81,7 @@
     <!-- Spark versions -->
     <spark.version>2.4.7</spark.version>
     <spark.version.dir>spark24</spark.version.dir>
-    <janino.version>3.0.16</janino.version>
+    <janino.version>3.1.6</janino.version>
 
     <kryo.version>4.0.0</kryo.version>
 
@@ -2010,7 +2010,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore />
+                        <ignore/>
                       </action>
                     </pluginExecution>
                   </pluginExecutions>
