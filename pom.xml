@@ -23,7 +23,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>19</version>
-    <relativePath />
+    <relativePath/>
     <!-- no parent resolution -->
   </parent>
 
@@ -151,7 +151,7 @@
     <roaring.version>0.6.18</roaring.version>
     <!--<roaring.version>0.6.18</roaring.version>-->
     <roaring.version>0.7.36-os-kylin-r1</roaring.version>
-    <cglib.version>3.2.4</cglib.version>
+    <cglib.version>3.2.7</cglib.version>
     <supercsv.version>2.4.0</supercsv.version>
     <cors.version>2.5</cors.version>
     <tomcat.version>7.0.100</tomcat.version>
@@ -2010,7 +2010,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore />
+                        <ignore/>
                       </action>
                     </pluginExecution>
                   </pluginExecutions>
