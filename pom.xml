@@ -23,7 +23,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>19</version>
-    <relativePath />
+    <relativePath/>
     <!-- no parent resolution -->
   </parent>
 
@@ -92,7 +92,7 @@
     <mysql-connector.version>5.1.8</mysql-connector.version>
 
     <!-- Scala versions -->
-    <scala.version>2.11.8</scala.version>
+    <scala.version>2.11.12</scala.version>
     <scala.binary.version>2.11</scala.binary.version>
 
     <reflections.version>0.9.10</reflections.version>
@@ -2010,7 +2010,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore />
+                        <ignore/>
                       </action>
                     </pluginExecution>
                   </pluginExecutions>
@@ -2029,7 +2029,7 @@
     <profile>
       <id>spark3</id>
       <properties>
-        <scala.version>2.12.10</scala.version>
+        <scala.version>2.11.12</scala.version>
         <scala.binary.version>2.12</scala.binary.version>
         <spark.version>3.1.1</spark.version>
         <spark.version.dir>spark31</spark.version.dir>
