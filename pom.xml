@@ -23,7 +23,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>19</version>
-    <relativePath />
+    <relativePath/>
     <!-- no parent resolution -->
   </parent>
 
@@ -136,7 +136,7 @@
     <!-- Commons -->
     <commons-lang3.version>3.5</commons-lang3.version>
     <commons-email.version>1.5</commons-email.version>
-    <commons-validator.version>1.4.0</commons-validator.version>
+    <commons-validator.version>1.10.0</commons-validator.version>
     <commons-compress.version>1.18</commons-compress.version>
     <commons-dbcp.version>1.4</commons-dbcp.version>
 
@@ -2010,7 +2010,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore />
+                        <ignore/>
                       </action>
                     </pluginExecution>
                   </pluginExecutions>
